@@ -31,7 +31,7 @@ Instead, it’s a set of **structured DevOps case studies** that show:
 /case-studies  
   ├── cicd-to-production.md         
   ├── kubernetes-deployments.md  
-  └── aws-infrastructure-automation.md
+  └── terraform-refactor-and-secure-aws-deployment.md
 
 Each case study follows the same structure:
 
